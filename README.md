@@ -142,16 +142,6 @@ HCMC_Rent_Predictor/
 
 ---
 
-## 🛣️ Roadmap
-- [ ] **Web Interface** – Deploy as web application
-- [ ] **Additional Cities** – Extend to other Vietnamese cities  
-- [ ] **More Features** – Add distance to schools, hospitals, metro
-- [ ] **Model Improvements** – Implement cross-validation and metrics
-- [ ] **API Development** – REST API for external integration
-- [ ] **Data Visualization** – Charts and graphs for market insights
-
----
-
 ## 📄 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
